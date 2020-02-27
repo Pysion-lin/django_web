@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd00c3d5-1a9f-41b8-a17e-6afbcd2dbbc1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/meiduo_mall$sms.coverage" NAME="sms Coverage Results" MODIFIED="1561174988886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/libs/yuntongxun" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$generate_detail_static_html.coverage" NAME="generate_detail_static_html Coverage Results" MODIFIED="1562647669378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$crons.coverage" NAME="crons Coverage Results" MODIFIED="1562645707140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/apps/contents" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$captcha.coverage" NAME="captcha Coverage Results" MODIFIED="1561171393879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/libs/captcha" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="meiduo13@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="meiduo13@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="meiduo13@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="meiduo13: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="admin_permission_views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/admin_permission_views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>User</find>
+      <find>send_sms_code</find>
+      <find>save_email</find>
+      <find>add_title</find>
+      <find>addresses</find>
+      <find>save_address</find>
+      <find>is_show_edit</find>
+      <find>set_default</find>
+      <find>default_address_id</find>
+      <find>delete_address</find>
+      <find>save_title</find>
+      <find>on_submit</find>
+      <find>show_edit_site</find>
+      <find>../../static</find>
+      <find>on_addition</find>
+      <find>加入</find>
+      <find>redis</find>
+      <find>on_add</find>
+      <find>update_selected</find>
+      <find>on_delete</find>
+      <find>on_selected_all</find>
+      <find>on_order_submit</find>
+      <find>STAT</find>
+      <find>../static</find>
+      <find>STATICFILES_DIRS</find>
+      <find>BASE</find>
+      <find>UTC</find>
+      <find>SKUGoodsSpecsSerializer</find>
+      <find>data</find>
+      <find>fdfs</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/static</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/.virtualenvs/django_py3/</dir>
+      <dir>$PROJECT_DIR$/meiduo_mall/utils</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/payment/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/templates/pay_success.html" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/orders/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/templates/user_center_info.html" />
+        <option value="$PROJECT_DIR$/meiduo_mall/templates/user_center_order.html" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/orders/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/contents/crons.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/utils/my_category.py" />
+        <option value="$PROJECT_DIR$/scripts/generate_detail_static_html.py" />
+        <option value="$PROJECT_DIR$/celery_tasks/config.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/utils/db_routers.py" />
+        <option value="$PROJECT_DIR$/static/js/host.js" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/contents/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/wsgi.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/settings/prod.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/templates/index.html" />
+        <option value="$PROJECT_DIR$/uwsgi.ini" />
+        <option value="$PROJECT_DIR$/meiduo_mall/templates/detail.html" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/utils.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/utils/my_authenticate.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/orders/models.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/home/serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/my_paginate.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/user/user_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/user/user_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/home/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/goods/models.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/test.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spu_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spu_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/settings/dev.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/spec_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_options_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_options_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_images_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_images_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/order/order_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/order/order_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/permission_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/permission_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/group_permission_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/group_permission_serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/admin_permission_views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/admin_permission_serializers.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1394" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meiduo_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="auth&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day24/python13/meiduo_mall/meiduo_mall/apps/oauth&#10;django/contrib/auth&#9;FILE&#9;file:///Users/heJing/.virtualenvs/django_py3/lib/python3.6/site-packages/django/contrib/auth&#10;dev&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day24/python13/meiduo_mall/meiduo_mall/settings/dev.py&#10;goods/models&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day23/python13/meiduo_mall/meiduo_mall/apps/goods/models.py&#10;orders/models&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day23/python13/meiduo_mall/meiduo_mall/apps/orders/models.py&#10;sku_views&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day22/python13/meiduo_mall/meiduo_mall/apps/meiduo_admin/good/sku_views.py&#10;de&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day22/python13/meiduo_mall/meiduo_mall/settings/dev.py&#10;url&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day22/python13/meiduo_mall/meiduo_mall/apps/meiduo_admin/urls.py&#10;goods/mode&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day22/python13/meiduo_mall/meiduo_mall/apps/goods/models.py&#10;pagination&#9;null&#9;null&#10;dev.&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day21/python13/meiduo_mall/meiduo_mall/settings/dev.py&#10;goods/views&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day14/python13/meiduo_mall/meiduo_mall/apps/goods/views.py&#10;payment/urls&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day14/python13/meiduo_mall/meiduo_mall/apps/payment/urls.py&#10;contents/urls&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day14/python13/meiduo_mall/meiduo_mall/apps/contents/urls.py&#10;orders/mode&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/apps/orders/models.py&#10;user_center_info&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/templates/user_center_info.html&#10;orders/urls&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/apps/orders/urls.py&#10;order/views.&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/apps/orders/views.py&#10;payment/views&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/apps/payment/views.py&#10;orders/views&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/apps/orders/views.py&#10;index.&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/templates/index.html&#10;order_success.js&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/static/js/order_success.js&#10;order_succe&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/templates/order_success.html&#10;order&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/templates/order_success.html&#10;order_succ&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/templates/order_success.html&#10;place_order.html&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/templates/place_order.html&#10;place&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/static/js/place_order.js&#10;cart.js&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/static/js/cart.js&#10;carts/urls&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/apps/carts/urls.py&#10;detail.html&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day13/python13/meiduo_mall/meiduo_mall/templates/detail.html&#10;place_order.js&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day12/python13/meiduo_mall/meiduo_mall/static/js/place_order.js&#10;cart.html&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day12/python13/meiduo_mall/meiduo_mall/templates/cart.html&#10;cart.&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/templates/cart.html&#10;cart&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/static/js/cart.js&#10;index.html&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/templates/index.html&#10;carts/views&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/apps/carts/views.py&#10;index.js&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/static/js/index.js&#10;auth_call&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/templates/oauth_callback.html&#10;login.js&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/static/js/login.js&#10;users/views&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/apps/users/views.py&#10;carts/view&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day11/python13/meiduo_mall/meiduo_mall/apps/carts/views.py&#10;good/mo&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day10/python13/meiduo_mall/meiduo_mall/apps/goods/models.py&#10;det&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day10/python13/meiduo_mall/meiduo_mall/static/js/detail.js&#10;detail.js&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day10/python13/meiduo_mall/meiduo_mall/static/js/detail.js&#10;detail.ht&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day10/python13/meiduo_mall/meiduo_mall/templates/detail.html&#10;user_center_info.js&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day10/python13/meiduo_mall/meiduo_mall/static/js/user_center_info.js&#10;goods/urls&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day10/python13/meiduo_mall/meiduo_mall/apps/goods/urls.py&#10;detail&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day10/python13/meiduo_mall/meiduo_mall/templates/detail.html&#10;list.html&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day09/python13/meiduo_mall/meiduo_mall/templates/list.html&#10;contents/mo&#9;FILE&#9;file:///Users/heJing/Desktop/classes/day08/python13/meiduo_mall/meiduo_mall/apps/contents/models.py" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meiduo_mall/utils/fdfs" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/templates" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/apps/payment" />
+      <recent name="$PROJECT_DIR$/celery_tasks" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/templates" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/templates/search" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/apps" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/settings" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.meiduo_mall">
+    <configuration name="captcha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_mall/libs/captcha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_mall/libs/captcha/captcha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="crons" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_mall/apps/contents" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_mall/apps/contents/crons.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="generate_detail_static_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/generate_detail_static_html.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_mall/libs/yuntongxun" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_mall/libs/yuntongxun/sms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="meiduo_mall" type="Python.DjangoServer" factoryName="Django server">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.meiduo_mall" />
+      <item itemvalue="Python.captcha" />
+      <item itemvalue="Python.sms" />
+      <item itemvalue="Python.crons" />
+      <item itemvalue="Python.generate_detail_static_html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generate_detail_static_html" />
+        <item itemvalue="Python.crons" />
+        <item itemvalue="Python.sms" />
+        <item itemvalue="Python.captcha" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd00c3d5-1a9f-41b8-a17e-6afbcd2dbbc1" name="Default" comment="" />
+      <created>1561079769541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561079769541</updated>
+    </task>
+    <task id="LOCAL-00117" summary="用户订单页面展示">
+      <created>1562642207663</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1562642207664</updated>
+    </task>
+    <task id="LOCAL-00118" summary="用户订单商品数据">
+      <created>1562642823870</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1562642823870</updated>
+    </task>
+    <task id="LOCAL-00119" summary="用户订单商品分页">
+      <created>1562644073890</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1562644073890</updated>
+    </task>
+    <task id="LOCAL-00120" summary="展示商品状态信息">
+      <created>1562644909924</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1562644909924</updated>
+    </task>
+    <task id="LOCAL-00121" summary="广告页面静态化[理解]">
+      <created>1562646169563</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1562646169563</updated>
+    </task>
+    <task id="LOCAL-00122" summary="定时器开启">
+      <created>1562647330648</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1562647330648</updated>
+    </task>
+    <task id="LOCAL-00123" summary="详情页面静态化[理解]">
+      <created>1562648169423</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1562648169424</updated>
+    </task>
+    <task id="LOCAL-00124" summary="读写分离配置[理解]">
+      <created>1562724610103</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1562724610104</updated>
+    </task>
+    <task id="LOCAL-00125" summary="跨域配置,admin子应用创建">
+      <created>1563761906640</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1563761906641</updated>
+    </task>
+    <task id="LOCAL-00126" summary="obtain_jwt_token">
+      <created>1563764628522</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1563764628522</updated>
+    </task>
+    <task id="LOCAL-00127" summary="jwt返回值配置">
+      <created>1563765350113</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1563765350113</updated>
+    </task>
+    <task id="LOCAL-00128" summary="判断管理员用户登陆">
+      <created>1563766123958</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1563766123958</updated>
+    </task>
+    <task id="LOCAL-00129" summary="用户总数统计">
+      <created>1563766501521</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1563766501521</updated>
+    </task>
+    <task id="LOCAL-00130" summary="日增用户统计分析">
+      <created>1563768047513</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1563768047514</updated>
+    </task>
+    <task id="LOCAL-00131" summary="日活用户统计代码实现">
+      <created>1563768329128</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1563768329128</updated>
+    </task>
+    <task id="LOCAL-00132" summary="日下单用户统计">
+      <created>1563768917289</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1563768917290</updated>
+    </task>
+    <task id="LOCAL-00133" summary="月新增用户">
+      <created>1563769858430</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1563769858430</updated>
+    </task>
+    <task id="LOCAL-00134" summary="日分类商品访问量">
+      <created>1563930676716</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1563930676717</updated>
+    </task>
+    <task id="LOCAL-00135" summary="增加用户序列化器">
+      <created>1563934933125</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1563934933125</updated>
+    </task>
+    <task id="LOCAL-00136" summary="获取sku列表数据">
+      <created>1563936959469</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1563936959470</updated>
+    </task>
+    <task id="LOCAL-00137" summary="获取sku列表数据,过滤">
+      <created>1563937318228</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1563937318228</updated>
+    </task>
+    <task id="LOCAL-00138" summary="获取分类信息,类视图">
+      <created>1563938346641</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1563938346641</updated>
+    </task>
+    <task id="LOCAL-00139" summary="获取spu表数据,类视图,序列化器">
+      <created>1563939877175</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1563939877176</updated>
+    </task>
+    <task id="LOCAL-00140" summary="sku的spu规格信息获取">
+      <created>1564016734119</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1564016734120</updated>
+    </task>
+    <task id="LOCAL-00141" summary="sku数据保存规格">
+      <created>1564017817170</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1564017817171</updated>
+    </task>
+    <task id="LOCAL-00142" summary="sku表保存数据,设置事务">
+      <created>1564019244708</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1564019244708</updated>
+    </task>
+    <task id="LOCAL-00143" summary="sku表更新数据">
+      <created>1564019972991</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1564019972992</updated>
+    </task>
+    <task id="LOCAL-00144" summary="获取brand品牌信息">
+      <created>1564022169748</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1564022169748</updated>
+    </task>
+    <task id="LOCAL-00145" summary="spu表获取一级分类信息">
+      <created>1564022430717</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1564022430717</updated>
+    </task>
+    <task id="LOCAL-00146" summary="spu表获取二级和三级分类">
+      <created>1564022753535</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1564022753535</updated>
+    </task>
+    <task id="LOCAL-00147" summary="spu表上传图片">
+      <created>1564024172243</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1564024172243</updated>
+    </task>
+    <task id="LOCAL-00148" summary="spu规格表管理">
+      <created>1564188917234</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1564188917238</updated>
+    </task>
+    <task id="LOCAL-00149" summary="spu规格,选项信息获取">
+      <created>1564189719963</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1564189719964</updated>
+    </task>
+    <task id="LOCAL-00150" summary="spu规格信息获取">
+      <created>1564190713884</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1564190713884</updated>
+    </task>
+    <task id="LOCAL-00151" summary="图片表-获取图片数据">
+      <created>1564194193312</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1564194193312</updated>
+    </task>
+    <task id="LOCAL-00152" summary="图片表-获取sku信息">
+      <created>1564195320703</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1564195320703</updated>
+    </task>
+    <task id="LOCAL-00153" summary="图片表-保存图片数据">
+      <created>1564197130648</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1564197130648</updated>
+    </task>
+    <task id="LOCAL-00154" summary="图片表修改">
+      <created>1564198083197</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1564198083197</updated>
+    </task>
+    <task id="LOCAL-00155" summary="订单获取">
+      <created>1564274910923</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1564274910929</updated>
+    </task>
+    <task id="LOCAL-00156" summary="获取订单商品数据">
+      <created>1564276190226</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1564276190227</updated>
+    </task>
+    <task id="LOCAL-00157" summary="ReadOnlyModelViewSet获取订单">
+      <created>1564276361068</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1564276361068</updated>
+    </task>
+    <task id="LOCAL-00158" summary="修改订单状态">
+      <created>1564277000738</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1564277000740</updated>
+    </task>
+    <task id="LOCAL-00159" summary="用户权限表列表数据">
+      <created>1564280091509</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1564280091510</updated>
+    </task>
+    <task id="LOCAL-00160" summary="获取用户组表列表数据">
+      <created>1564282798443</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1564282798443</updated>
+    </task>
+    <task id="LOCAL-00161" summary="获取权限表数据">
+      <created>1564283244058</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1564283244058</updated>
+    </task>
+    <task id="LOCAL-00162" summary="获取管理员用户列表数据">
+      <created>1564447984150</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1564447984152</updated>
+    </task>
+    <task id="LOCAL-00163" summary="获取分组表数据">
+      <created>1564448673821</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1564448673821</updated>
+    </task>
+    <task id="LOCAL-00164" summary="重写create方法">
+      <created>1564450863501</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1564450863502</updated>
+    </task>
+    <task id="LOCAL-00165" summary="修改管理员,重写update方法">
+      <created>1564451199212</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1564451199212</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="23" width="1394" height="877" extended-state="1" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Redis Servers" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.51794875" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3705128" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2514793" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32988167" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2602564" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32948717" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27218935" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43205127" />
+      <window_info anchor="right" id="Redis Servers" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32948717" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45128205" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.8576923" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32988167" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sku数据保存规格" />
+    <MESSAGE value="sku表保存数据,设置事务" />
+    <MESSAGE value="sku表更新数据" />
+    <MESSAGE value="获取brand品牌信息" />
+    <MESSAGE value="spu表获取一级分类信息" />
+    <MESSAGE value="spu表获取二级和三级分类" />
+    <MESSAGE value="spu表上传图片" />
+    <MESSAGE value="spu规格表管理" />
+    <MESSAGE value="spu规格,选项信息获取" />
+    <MESSAGE value="spu规格信息获取" />
+    <MESSAGE value="图片表-获取图片数据" />
+    <MESSAGE value="图片表-获取sku信息" />
+    <MESSAGE value="图片表-保存图片数据" />
+    <MESSAGE value="图片表修改" />
+    <MESSAGE value="订单获取" />
+    <MESSAGE value="获取订单商品数据" />
+    <MESSAGE value="ReadOnlyModelViewSet获取订单" />
+    <MESSAGE value="修改订单状态" />
+    <MESSAGE value="用户权限表列表数据" />
+    <MESSAGE value="获取用户组表列表数据" />
+    <MESSAGE value="获取权限表数据" />
+    <MESSAGE value="获取管理员用户列表数据" />
+    <MESSAGE value="获取分组表数据" />
+    <MESSAGE value="重写create方法" />
+    <MESSAGE value="修改管理员,重写update方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改管理员,重写update方法" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_serializers.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="90" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>request</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.context[&quot;request&quot;].data[&quot;specs&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.context[&quot;request&quot;].data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.context[&quot;request&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.context</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>serializer.data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.page.paginator.num_pages</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.page.paginator.numbers</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.page.paginator</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/utils/my_authenticate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="764" selection-start-line="764" selection-end-line="764" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/utils/deprecation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/contrib/auth/hashers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="77" column="53" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/utils/crypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/user/user_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/user/user_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spu_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/utils/fdfs/client.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/rest_framework/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/rest_framework/generics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="313" selection-start-line="313" selection-end-line="313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_options_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_options_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_images_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spu_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_images_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#575#781#0" />
+            <element signature="e#858#1548#0" />
+            <element signature="e#1628#2327#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/my_paginate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/meiduo_admin.order.order_views.OrderViewSet">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>meiduo_admin.order.order_views.OrderViewSet</OriginalElement>
+          <nodes>
+            <node x="" y="">meiduo_admin.order.order_views.OrderViewSet</node>
+            <node x="" y="">rest_framework.mixins.CreateModelMixin</node>
+            <node x="" y="">object</node>
+            <node x="" y="">rest_framework.viewsets.GenericViewSet</node>
+            <node x="" y="">rest_framework.viewsets.ModelViewSet</node>
+            <node x="" y="">django.views.generic.base.View</node>
+            <node x="" y="">rest_framework.mixins.UpdateModelMixin</node>
+            <node x="" y="">rest_framework.viewsets.ViewSetMixin</node>
+            <node x="" y="">rest_framework.generics.GenericAPIView</node>
+            <node x="" y="">rest_framework.views.APIView</node>
+            <node x="" y="">rest_framework.mixins.DestroyModelMixin</node>
+            <node x="" y="">rest_framework.mixins.RetrieveModelMixin</node>
+            <node x="" y="">rest_framework.mixins.ListModelMixin</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9803032245190302" x="670.0" y="303.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/orders/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="27" />
+          <folding>
+            <element signature="e#211#257#0" />
+            <element signature="e#293#325#0" />
+            <element signature="e#356#498#0" />
+            <element signature="e#536#647#0" />
+            <element signature="e#1386#1487#0" />
+            <element signature="e#1520#1540#0" />
+            <element signature="e#1617#1728#0" />
+            <element signature="e#2403#2503#0" />
+            <element signature="e#2536#2556#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/order/order_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/order/order_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+            <element signature="e#339#375#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/settings/dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/permission_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/permission_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="102" column="40" lean-forward="true" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding>
+            <element signature="e#359#597#0" />
+            <element signature="e#390#597#0" />
+            <element signature="e#390#399#0" />
+            <element signature="e#559#596#0" />
+            <element signature="e#653#871#0" />
+            <element signature="e#684#871#0" />
+            <element signature="e#833#870#0" />
+            <element signature="e#925#1146#0" />
+            <element signature="e#957#1146#0" />
+            <element signature="e#1107#1145#0" />
+            <element signature="e#1201#1435#0" />
+            <element signature="e#1233#1435#0" />
+            <element signature="e#1396#1434#0" />
+            <element signature="e#1496#2200#0" />
+            <element signature="e#1528#2200#0" />
+            <element signature="e#1730#2147#0" />
+            <element signature="e#2064#2146#0" />
+            <element signature="e#2264#2639#0" />
+            <element signature="e#2361#2639#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/oauth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/group_permission_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/spec_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/rest_framework/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="177" column="31" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="41" column="24" selection-start-line="39" selection-start-column="15" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#261#340#0" />
+            <element signature="e#747#785#0" />
+            <element signature="e#1642#2435#0" />
+            <element signature="e#1718#2151#0" />
+            <element signature="e#2195#2293#0" />
+            <element signature="e#2321#2435#0" />
+            <element signature="e#2514#2586#0" />
+            <element signature="e#2534#2586#0" />
+            <element signature="e#2667#2729#0" />
+            <element signature="e#2687#2729#0" />
+            <element signature="e#2811#2890#0" />
+            <element signature="e#2831#2890#0" />
+            <element signature="e#2974#3243#0" />
+            <element signature="e#3192#3243#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/good/sku_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#297#721#0" />
+            <element signature="e#403#433#0" />
+            <element signature="e#495#721#0" />
+            <element signature="e#780#897#0" />
+            <element signature="e#955#1046#0" />
+            <element signature="e#1106#1385#0" />
+            <element signature="e#1250#1385#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/group_permission_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" selection-start-line="10" selection-start-column="10" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/contrib/auth/base_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/django_py3/lib/python3.6/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="215" column="7" lean-forward="true" selection-start-line="215" selection-start-column="7" selection-end-line="215" selection-end-column="7" />
+          <folding>
+            <element signature="e#782#959#0" />
+            <element signature="e#782#878#1" />
+            <element signature="e#1051#1307#0" />
+            <element signature="e#1147#1307#0" />
+            <element signature="e#1375#3333#0" />
+            <element signature="e#1375#2437#1" />
+            <element signature="e#2744#2981#0" />
+            <element signature="e#2900#2980#0" />
+            <element signature="e#3014#3179#0" />
+            <element signature="e#3052#3178#0" />
+            <element signature="e#3216#3273#0" />
+            <element signature="e#3376#3431#1" />
+            <element signature="e#3510#3536#0" />
+            <element signature="e#3599#4382#1" />
+            <element signature="e#4632#4699#0" />
+            <element signature="e#4732#4748#0" />
+            <element signature="e#4785#4804#0" />
+            <element signature="e#4847#6169#0" />
+            <element signature="e#4952#5400#0" />
+            <element signature="e#4952#5045#1" />
+            <element signature="e#5490#5663#0" />
+            <element signature="e#5748#6169#0" />
+            <element signature="e#6292#6497#0" />
+            <element signature="e#6360#6474#0" />
+            <element signature="e#6541#6905#0" />
+            <element signature="e#6541#6633#1" />
+            <element signature="e#6682#6888#0" />
+            <element signature="e#6765#6830#0" />
+            <element signature="e#6957#7337#0" />
+            <element signature="e#6957#7049#1" />
+            <element signature="e#7098#7320#0" />
+            <element signature="e#7189#7262#0" />
+            <element signature="e#7382#7529#1" />
+            <element signature="e#7911#8025#0" />
+            <element signature="e#8401#8416#0" />
+            <element signature="e#8473#8952#0" />
+            <element signature="e#8473#8718#1" />
+            <element signature="e#8803#8925#0" />
+            <element signature="e#9007#9050#0" />
+            <element signature="e#9100#9712#0" />
+            <element signature="e#9100#9489#1" />
+            <element signature="e#9768#10021#0" />
+            <element signature="e#9768#9954#1" />
+            <element signature="e#10074#10405#0" />
+            <element signature="e#10074#10226#1" />
+            <element signature="e#10468#10653#1" />
+            <element signature="e#11008#11089#0" />
+            <element signature="e#11600#11718#0" />
+            <element signature="e#11960#12049#0" />
+            <element signature="e#12080#12185#0" />
+            <element signature="e#12224#12412#0" />
+            <element signature="e#12224#12315#1" />
+            <element signature="e#12452#12521#0" />
+            <element signature="e#12602#12726#0" />
+            <element signature="e#12602#12654#1" />
+            <element signature="e#12759#13003#0" />
+            <element signature="e#12759#12930#1" />
+            <element signature="e#12974#13003#0" />
+            <element signature="e#13068#15000#0" />
+            <element signature="e#13294#13298#0" />
+            <element signature="e#13331#13353#0" />
+            <element signature="e#13392#13432#0" />
+            <element signature="e#13471#13500#0" />
+            <element signature="e#13534#13589#0" />
+            <element signature="e#13619#13709#0" />
+            <element signature="e#13741#13831#0" />
+            <element signature="e#13883#13973#0" />
+            <element signature="e#14027#14117#0" />
+            <element signature="e#14163#14182#0" />
+            <element signature="e#14238#14267#0" />
+            <element signature="e#14324#14336#0" />
+            <element signature="e#14391#14438#0" />
+            <element signature="e#14488#14530#0" />
+            <element signature="e#14586#14702#0" />
+            <element signature="e#14621#14682#0" />
+            <element signature="e#14752#14795#0" />
+            <element signature="e#14847#14866#0" />
+            <element signature="e#14922#14942#0" />
+            <element signature="e#14980#15000#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/admin_permission_serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding>
+            <element signature="e#194#725#0" />
+            <element signature="e#169#208#0" />
+            <element signature="e#338#601#0" />
+            <element signature="e#668#734#0" />
+            <element signature="e#330#383#0" />
+            <element signature="e#350#383#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/apps/meiduo_admin/system/admin_permission_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
